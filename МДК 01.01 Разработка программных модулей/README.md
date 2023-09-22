@@ -12,6 +12,6 @@ https://docs.google.com/document/d/1-kxlVEz_P8V0n4xOJvO3C-b2vGWx6pjvqisUy74A_Tc/
 
 ![image](https://github.com/b6e6b6r6a/5_Semestr/assets/113089548/ce4eff2f-0e05-4a7c-83db-ebccea29c2c0)
 
-
+Сайт - http://project7784034.tilda.ws/
 
 
