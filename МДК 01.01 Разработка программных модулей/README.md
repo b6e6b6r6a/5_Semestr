@@ -14,4 +14,9 @@ https://docs.google.com/document/d/1-kxlVEz_P8V0n4xOJvO3C-b2vGWx6pjvqisUy74A_Tc/
 
 Сайт - http://project7784034.tilda.ws/
 
-
+Принципы проектирования:
+1. Мастерство
+2. Лаконичность
+3. Быстрота и плавность
+4. Естественная цифровая среда
+5. Единство
