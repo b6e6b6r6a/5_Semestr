@@ -20,3 +20,7 @@ https://docs.google.com/document/d/1-kxlVEz_P8V0n4xOJvO3C-b2vGWx6pjvqisUy74A_Tc/
 3. Быстрота и плавность
 4. Естественная цифровая среда
 5. Единство
+
+Прототип - https://www.figma.com/file/RAznL3D3H6Ku3rZ7518mFZ/Restaurant-Application-UI-Interface-(Community)?type=design&node-id=0-1&mode=design
+
+https://www.figma.com/file/siHE36GSOmbPZWUaYfOcQs/MODERN-PAGE-TRANSITIONS-by-MAKETHECUT.STUDIO-(Community)?type=design&node-id=0-1&mode=design
