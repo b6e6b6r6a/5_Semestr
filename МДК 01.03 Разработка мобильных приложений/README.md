@@ -20,3 +20,5 @@
 4. Язык прогрммирования - Java или Kotlin
 
    Цель: Сделать переходы между двумя страницами
+
+Прототип - https://www.figma.com/file/RAznL3D3H6Ku3rZ7518mFZ/Restaurant-Application-UI-Interface-(Community)?type=design&node-id=0-1&mode=design
