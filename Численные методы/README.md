@@ -6,7 +6,7 @@ Excel/Python Matplotlib
 Конспект - https://docs.google.com/spreadsheets/d/1LQZYodqFbRzUAkhlAq7O_u7PYK48labb2kzZcaAQEMo/edit?usp=sharing
 
 Реплит - https://replit.com/@b6e6b6r6a/Chisliennyie-mietody#main.py
-
+Зачет - https://docs.google.com/document/d/1j1g74qazDw85oTmdM3x247cLfwz8KYtWywKmuNoKRCw/edit
 Задание:
 Решить СЛАУ:
  -Метод Крамера
