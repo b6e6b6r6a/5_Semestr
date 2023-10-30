@@ -43,3 +43,10 @@ https://docs.google.com/document/d/1-kxlVEz_P8V0n4xOJvO3C-b2vGWx6pjvqisUy74A_Tc/
 4. Язык прогрммирования - Java или Kotlin
 
    Цель: Сделать переходы между двумя страницами
+
+
+![image](https://github.com/b6e6b6r6a/5_Semestr/assets/113089548/d274f694-4be5-4290-9f93-be6b2c43dbc1)
+
+![image](https://github.com/b6e6b6r6a/5_Semestr/assets/113089548/65db09f8-9a5a-42d1-bf32-7c0f1617d6c4)
+
+
