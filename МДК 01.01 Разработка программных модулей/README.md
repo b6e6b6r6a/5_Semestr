@@ -1,6 +1,7 @@
-https://docs.google.com/document/d/1-kxlVEz_P8V0n4xOJvO3C-b2vGWx6pjvqisUy74A_Tc/edit?usp=sharing
+[Конспект](https://docs.google.com/document/d/1-kxlVEz_P8V0n4xOJvO3C-b2vGWx6pjvqisUy74A_Tc/edit?usp=sharing) 
 
 План:
+--
 1. Выбор отрасли
 2. Выбор производства
 
@@ -12,19 +13,24 @@ https://docs.google.com/document/d/1-kxlVEz_P8V0n4xOJvO3C-b2vGWx6pjvqisUy74A_Tc/
 
 ![image](https://github.com/b6e6b6r6a/5_Semestr/assets/113089548/ce4eff2f-0e05-4a7c-83db-ebccea29c2c0)
 
-Сайт - http://project7784034.tilda.ws/
+Сайт
+--
+http://project7784034.tilda.ws/
 
 Принципы проектирования:
+--
 1. Мастерство
 2. Лаконичность
 3. Быстрота и плавность
 4. Естественная цифровая среда
 5. Единство
 
-Прототип - https://www.figma.com/file/siHE36GSOmbPZWUaYfOcQs/MODERN-PAGE-TRANSITIONS-by-MAKETHECUT.STUDIO-(Community)?type=design&node-id=0-1&mode=design
+Прототип
+--
+https://www.figma.com/file/siHE36GSOmbPZWUaYfOcQs/MODERN-PAGE-TRANSITIONS-by-MAKETHECUT.STUDIO-(Community)?type=design&node-id=0-1&mode=design
 
 Приложение состоит из 2 частей:
-
+--
  - Frontend:
 1. Кол-во страниц;
 2. Элементы интерфейса: текстовые блоки, медиа элементы(картинки, видео), кнопки(обычные, выпадающий список и тд);
