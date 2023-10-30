@@ -1,8 +1,10 @@
-У меня эпле
+У меня айфон
 
 Приложение состоит из 2 частей:
+--
 
  - Frontend:
+  --
 1. Кол-во страниц;
 2. Элементы интерфейса: текстовые блоки, медиа элементы(картинки, видео), кнопки(обычные, выпадающий список и тд);
 3. Для копоновки элементов используются шаблоны(вставить ссылку из вк https://habr.com/ru/companies/skbkontur/articles/524518/), заходим в название приложения 
@@ -14,6 +16,7 @@
    Цель: Макет из фигмы перенести в фндроид студио
 
  - Backend:
+   --
 1. Переключение между страницами;
 2. Анимация(проигрывание видео);
 3. Работа с API;
@@ -21,6 +24,8 @@
 
    Цель: Сделать переходы между двумя страницами
 
-Прототип - https://www.figma.com/file/RAznL3D3H6Ku3rZ7518mFZ/Restaurant-Application-UI-Interface-(Community)?type=design&node-id=0-1&mode=design
+Прототип
+--
+https://www.figma.com/file/RAznL3D3H6Ku3rZ7518mFZ/Restaurant-Application-UI-Interface-(Community)?type=design&node-id=0-1&mode=design
 
 ![image](https://github.com/b6e6b6r6a/5_Semestr/assets/113089548/a6d9a6c2-adb3-4ae4-8740-e906075a2a87)
