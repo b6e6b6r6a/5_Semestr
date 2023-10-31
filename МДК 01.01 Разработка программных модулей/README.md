@@ -55,4 +55,5 @@ https://www.figma.com/file/siHE36GSOmbPZWUaYfOcQs/MODERN-PAGE-TRANSITIONS-by-MAK
 
 ![image](https://github.com/b6e6b6r6a/5_Semestr/assets/113089548/65db09f8-9a5a-42d1-bf32-7c0f1617d6c4)
 
+https://replit.com/@roboflow/Roboflow-Webcam-Quickstart#style.css
 
