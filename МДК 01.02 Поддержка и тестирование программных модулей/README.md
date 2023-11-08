@@ -5,3 +5,5 @@
 
 ![image](https://github.com/b6e6b6r6a/5_Semestr/assets/113089548/9ef68268-8364-477e-85e6-e41ad14ea36e)
 
+![image](https://github.com/b6e6b6r6a/5_Semestr/assets/113089548/5d3f273d-dc01-4cb1-9d64-98c8b7b79a77)
+
